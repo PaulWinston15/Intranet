@@ -1,4 +1,4 @@
-This [Link](https://www.techtarget.com/whatis/definition/intranet) perfectly summarizes the definition of a URL
+This [Link from TechTalk](https://www.techtarget.com/whatis/definition/intranet) perfectly summarizes the definition of a URL
 
 It discusses the benefits of having an Intranet for within the organization.
 
